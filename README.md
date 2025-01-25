@@ -56,23 +56,37 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ---
 
 ## 🌱 Currently Learning
-- Advanced **GraphQL** & **Prisma**
-- Optimizing **Next.js** projects
-- Scalable **microservices** architectures
+- Advanced **GraphQL** & **Prisma**  
+- Optimizing **Next.js** projects  
+- Scalable **microservices** architectures  
+- Mastering **NestJS** for robust back-end development  
+- Exploring **Express** and building dynamic APIs  
+- Developing desktop apps with **Electron**  
+- More I, wanted to diving into systems programming with **Rust** and **C** , **C++**  
+- Interested in **Swift**   
+- Understanding advanced design patterns and architectural principles  
 
 ---
 
 ## 💡 Fun Facts
 - 💻 I’m a Linux enthusiast — you’ll often find me tweaking configurations in the terminal.  
-- ⚡ I’m passionate about **open-source contributions**.  
-- 🎯 Obsessed with optimizing performance and delivering pixel-perfect designs.
+- ⚡ I’m passionate about **open-source contributions** and love collaborating with the community.  
+- 🎯 Obsessed with optimizing performance and delivering pixel-perfect designs.  
+- 🧩 A problem solver who enjoys tackling challenging bugs and writing clean, maintainable code.  
+- 🤔 Critical thinker with a knack for analyzing complex systems and finding efficient solutions.  
+- 👥 Focused on creating exceptional **user experiences** with usability and accessibility in mind.  
+- 📋 Skilled in **project management**, ensuring deadlines are met while maintaining quality.  
+- 🚀 Constantly learning and exploring new technologies to stay ahead in the tech world.  
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [Portfolio](comming soon)   
-- 📧 **muhammad-ashraful@outlook.com**
+- 💼 [Portfolio](comming soon)  
+- 📧 **muhammad-ashraful@outlook.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/)  
+- 📷 [Instagram](https://www.instagram.com/dott.ash)  
+- 👍 [Facebook](https://www.facebook.com/dott.ash)  
 
 ---
 
