@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Muhamash! 🚀
 
-Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves building scalable web applications, crafting elegant code, and exploring cutting-edge technologies. 
+Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves building scalable web applications, crafting elegant code, and exploring cutting-edge technologies.
 
 ---
 
@@ -25,7 +25,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn--ui-000000?style=flat-square)
 
-
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
@@ -33,25 +32,15 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 
-### **Other Tools**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![REST](https://img.shields.io/badge/-REST-FF5733?style=flat-square)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-![Zsh](https://img.shields.io/badge/-Zsh-6C8EAD?logo=gnubash&logoColor=white&style=flat-square)
-![Terminal](https://img.shields.io/badge/-Terminal-000000?logo=gnometerminal&logoColor=white&style=flat-square)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat-square)
+---
+
+## 🔢 GitHub Stats & Heatmap
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamash&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamash&layout=compact&theme=tokyonight)
+
+![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=muhamash&theme=tokyonight)
 
 ---
 
@@ -60,31 +49,29 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 - Optimizing **Next.js** projects  
 - Scalable **microservices** architectures  
 - Mastering **NestJS** for robust back-end development  
-- Exploring **Express** and building dynamic APIs  
 - Developing desktop apps with **Electron**  
-- More I, wanted to diving into systems programming with **Rust** and **C** , **C++**  
-- Interested in **Swift**   
+- Diving into systems programming with **Rust**, **C**, and **C++**  
+- Exploring **Swift**  
 - Understanding advanced design patterns and architectural principles  
 
 ---
 
 ## 💡 Fun Facts
-- 💻 I’m a Linux enthusiast — you’ll often find me tweaking configurations in the terminal.  
-- ⚡ I’m passionate about **open-source contributions** and love collaborating with the community.  
-- 🎯 Obsessed with optimizing performance and delivering pixel-perfect designs.  
-- 🧩 A problem solver who enjoys tackling challenging bugs and writing clean, maintainable code.  
-- 🤔 Critical thinker with a knack for analyzing complex systems and finding efficient solutions.  
-- 👥 Focused on creating exceptional **user experiences** with usability and accessibility in mind.  
-- 📋 Skilled in **project management**, ensuring deadlines are met while maintaining quality.  
-- 🚀 Constantly learning and exploring new technologies to stay ahead in the tech world.  
+- 💻 Linux enthusiast — often tweaking configurations in the terminal.
+- ⚡ Passionate about **open-source contributions** and love collaborating with the community.
+- 🎯 Obsessed with optimizing performance and delivering pixel-perfect designs.
+- 🧩 A problem solver who enjoys tackling challenging bugs and writing clean, maintainable code.
+- 👥 Focused on creating exceptional **user experiences** with usability and accessibility in mind.
+- 💌 Skilled in **project management**, ensuring deadlines are met while maintaining quality.
+- 🚀 Constantly learning and exploring new technologies to stay ahead in the tech world.
 
 ---
 
-## 📫 Let's Connect!
+## 💌 Let's Connect!
 
-- 💼 https://muhamash-portfolio.vercel.app/
+- 🌟 [Portfolio](https://muhamash-portfolio.vercel.app/)
 - 📧 **muhammad-ashraful@outlook.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/md-ashraful-alam-94b62a16b)  
 - 📷 [Instagram](https://www.instagram.com/dott.ash)  
 - 👍 [Facebook](https://www.facebook.com/dott.ash)  
 
