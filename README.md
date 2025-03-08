@@ -11,7 +11,9 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+
 
 ### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -34,13 +36,13 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 
 ---
 
-## 🔢 GitHub Stats & Heatmap
+## 🔥 Heatmap of My Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamash&show_icons=true&theme=tokyonight)
+![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Muhamash&theme=react-dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamash&layout=compact&theme=tokyonight)
-
-![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=muhamash&theme=tokyonight)
+### **Language & Framework Usage**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamash&layout=compact&theme=radical)
+![Framework Usage](https://github-readme-stats.vercel.app/api?username=Muhamash&show_icons=true&theme=tokyonight)
 
 ---
 
