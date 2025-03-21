@@ -36,14 +36,23 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 
 ---
 
-## 🔥 Heatmap of My Activity
+## 🔥 GitHub Stats & Activity
 
+### **Heatmap of My Activity**
 ![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Muhamash&theme=react-dark)
 
-### **Language & Framework Usage**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamash&layout=compact&theme=radical)
-![Framework Usage](https://github-readme-stats.vercel.app/api?username=Muhamash&show_icons=true&theme=tokyonight)
+### **Profile Visitors**
+![Profile Views](https://komarev.com/ghpvc/?username=Muhamash&color=blue&style=flat-square)
 
+### **GitHub Stats & Contributions**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhamash&show_icons=true&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhamash&theme=radical)
+
+### **Most Used Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamash&layout=compact&theme=radical)
+
+### **Trophies & Achievements**
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muhamash&theme=dracula&column=7)
 ---
 
 ## 🌱 Currently Learning
