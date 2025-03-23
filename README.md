@@ -44,6 +44,15 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ### **Profile Visitors**
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhamash&color=blue&style=flat-square)
 
+### **Code time**
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muhamash)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhamash&repo=your-repo)](https://github.com/Muhamash/your-repo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamash&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhamash&show_icons=true&theme=radical)
+
+
+
 ### **GitHub Stats & Contributions**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhamash&show_icons=true&theme=tokyonight)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhamash&theme=radical)
