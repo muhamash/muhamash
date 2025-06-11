@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Muhamash! 🚀
+# Hey there 👋,  I'm Md Ashraful Alam! 🚀
 
 Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves building scalable web applications, crafting elegant code, and exploring cutting-edge technologies.
 
