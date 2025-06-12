@@ -64,10 +64,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 
 ## 🔥 GitHub Stats & Activity
 
-### GitHub Readme Stats
-![Ashraful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafulweb&show_icons=true&theme=radical)
-
-
 ### **Heatmap of My Activity**
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhamashweb&theme=rogue)
 ![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Muhamash&theme=react-dark)
