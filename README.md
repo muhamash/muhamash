@@ -69,7 +69,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 
 
 ### **Heatmap of My Activity**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhamashweb&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhamashweb&theme=rogue)
 ![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Muhamash&theme=react-dark)
 
@@ -79,17 +78,13 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 
 
 ### **GitHub Stats & Contributions**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhamasheb&theme=rogue)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamashweb&theme=monokai)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhamash&show_icons=true&theme=tokyonight)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhamash&theme=radical)
 
 ### **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamashweb&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamash&layout=compact&theme=radical)
 
 ### **Trophies & Achievements**
-![Metrics](https://raw.githubusercontent.com/ashrafulweb/muhamashweb/main/github-metrics.svg)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhamash&theme=dracula&column=7)
 ---
 
