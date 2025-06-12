@@ -33,8 +33,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat-square)
-
-#### 🍎 Swift / Apple Ecosystem
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white&style=flat-square)
 ![UIKit](https://img.shields.io/badge/-UIKit-438EFF?logo=apple&logoColor=white&style=flat-square)
 
