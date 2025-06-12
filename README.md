@@ -65,7 +65,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ## 🔥 GitHub Stats & Activity
 
 ### **Heatmap of My Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhamashweb&theme=rogue)
 ![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Muhamash&theme=react-dark)
 
 ### **Profile Visitors**
