@@ -35,6 +35,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat-square)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white&style=flat-square)
 ![UIKit](https://img.shields.io/badge/-UIKit-438EFF?logo=apple&logoColor=white&style=flat-square)
+![Tauri](https://img.shields.io/badge/-Tauri-FB8C00?logo=tauri&logoColor=white&style=flat-square)
 
 #### ⚛️ State Management / Utilities
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
@@ -83,8 +84,8 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ---
 
 ## 🌱 Currently Learning
-- Advanced **GraphQL** & **Socket**  
-- Optimizing **Next.js and fullstack** projects  
+- Advanced **GraphQL** , **Socket**  
+- Optimizing **Next.js, Tauri, and fullstack** projects  
 - Scalable **microservices** architectures  
 - Mastering **NestJS, Gin, Fiber, Fastapi** for robust back-end development  
 - Developing desktop apps with **Electron**  
