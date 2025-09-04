@@ -16,7 +16,7 @@ jobs:
       - name: Generate 3D Contribution Graphs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_USERNAME: muhamash
+          USERNAME: ${{ github.repository_owner }}
           THEME: night-rainbow
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
