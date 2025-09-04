@@ -121,14 +121,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ---
 
 
-<!-- 3D Contribution Graphs -->
-![3D Profile (Night Rainbow)](./profile-3d-contrib/profile-night-rainbow.svg)
-![3D Profile (Green)](./profile-3d-contrib/profile-green.svg)
-
-<!-- Snake Animation -->
-![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
-
 
 ## 🌱 Currently Learning & Exploring  
 
