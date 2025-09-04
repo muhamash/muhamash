@@ -2,7 +2,7 @@ name: Generate 3D Profile Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # Every Monday
+    - cron: "0 0 * * 1"  # Every Monday
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,14 @@ jobs:
 
       - name: Generate 3D Contribution Graphs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: Muhamash
-          settings: "night-rainbow"
+        env:
+          GITHUB_USERNAME: Muhamash
+          THEME: night-rainbow
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit 3D Graphs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
