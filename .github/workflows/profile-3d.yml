@@ -29,3 +29,5 @@ jobs:
           git add profile-3d-contrib/
           git commit -m "chore: update 3D contribution graphs" || echo "No changes to commit"
           git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
