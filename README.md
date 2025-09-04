@@ -79,7 +79,6 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)  
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff)
 
 ---
 
@@ -121,8 +120,15 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves buil
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhamash&theme=dracula&column=7)
 ---
 
+
+<!-- 3D Contribution Graphs -->
+![3D Profile (Night Rainbow)](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile (Green)](./profile-3d-contrib/profile-green.svg)
+
+<!-- Snake Animation -->
 ![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+
 
 ## 🌱 Currently Learning & Exploring  
 
@@ -159,8 +165,6 @@ I’m an enthusiastic learner, constantly exploring new technologies and approac
 ✨ Always curious, always building — refining my skills to become a well-rounded **Software Engineer**.  
 
 ---
-![3D Profile (Night Rainbow)](./profile-3d-contrib/profile-night-rainbow.svg)
-![3D Profile (Green)](./profile-3d-contrib/profile-green.svg)
 
 
 ---
