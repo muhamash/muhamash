@@ -1,21 +1,28 @@
-name: 3D Profile Contributions
+name: Generate 3D Profile Contributions
+
 on:
   schedule:
     - cron: "0 0 * * 1"   # Every Monday
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graphs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          username: muhamash
+          username: Muhamash
           settings: "night-rainbow"
-      - name: Commit 3D graphs
+
+      - name: Commit 3D Graphs
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add profile-3d-contrib/*
-          git commit -m "chore: update 3D contribution graphs" || echo "no changes"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git commit -m "chore: update 3D contribution graphs" || echo "No changes to commit"
           git push
