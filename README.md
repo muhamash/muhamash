@@ -166,7 +166,7 @@ I’m an enthusiastic learner, constantly exploring new technologies and approac
 - 📧 **muhammad-ashraful@outlook.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/md-ashraful-alam-94b62a16b)  
 - 📷 [Instagram](https://www.instagram.com/muhamash.studio)  
-- 👍 [Facebook](https://www.facebook.com/dott.ash)  
+- 👍 [Facebook](https://www.facebook.com/ash.visual.studio)  
 
 ---
 
